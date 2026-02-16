@@ -1,0 +1,24 @@
+[23-Dec-2025 20:06:52 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cedula' in 'where clause' in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php:16
+Stack trace:
+#0 /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php(16): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php on line 16
+[23-Dec-2025 20:08:10 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cedula' in 'where clause' in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php:20
+Stack trace:
+#0 /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php(20): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php on line 20
+[23-Dec-2025 20:08:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cedula' in 'where clause' in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php:20
+Stack trace:
+#0 /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php(20): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/coaching/public_html/Sitema_certificados/controllers/auth_registro.php on line 20
+[26-Dec-2025 12:28:31 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:40:21 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:40:24 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:43:09 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:43:32 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:43:41 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 12:47:18 America/Bogota] PHP Notice:  Undefined index: id_examen in /home/coaching/public_html/Sitema_certificados/controllers/quiz_validar_codigo.php on line 9
+[26-Dec-2025 22:16:13 America/Bogota] PHP Warning:  require(config/db.php): failed to open stream: No such file or directory in /home/coaching/public_html/Sitema_certificados/controllers/crear_superadmin.php on line 3
+[26-Dec-2025 22:16:13 America/Bogota] PHP Fatal error:  require(): Failed opening required 'config/db.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/coaching/public_html/Sitema_certificados/controllers/crear_superadmin.php on line 3
