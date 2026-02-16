@@ -1,0 +1,7 @@
+00:48:30 - --- INICIO CONFIRMACIÓN ---
+00:48:30 - Intento 58 cerrado con nota 30.00
+00:48:30 - ADVERTENCIA: El frontend NO envió las respuestas a este archivo. Solo se guardó la nota.
+00:57:05 - --- INICIO CONFIRMACIÓN ---
+00:57:05 - Intento 59 cerrado con nota 15.00
+00:57:05 - Guardado en resultados. ID generado: 2
+00:57:05 - Detalles guardados exitosamente.
